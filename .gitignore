@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+encrypted_data.dat
+__pycache__/
+*.pyc
+dist/
+build/
+>>>>>>> 18455e4 (初始提交：上传密码管理器项目)
